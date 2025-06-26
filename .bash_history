@@ -119,3 +119,27 @@ git status
 git add <nasaProject>
 git add nasaProject
 git status
+cd /mnt/c/Users/krisp/Desktop/VS\ code\ projects/Projects/mainBranch
+git status 
+git add mainBranch
+git add -p
+git commit -m "new main branch"
+git push mainBranch
+git push master
+git push upstream 
+git remote -v
+git remote add origin https://github.com/perssonifications/Projects.git
+cd /VS/code/projects/Projects/mainBranch
+ls /
+cd ~/VS\ Code\ Projects/Projects/mainBranch
+ls ~
+ls ~/VS\ Code\ Projects
+ls ~/VS
+ls ~/Code
+find ~ -type d -name Projects 2>/dev/null
+find ~ -type d -name mainBranch 2>/dev/null
+git status
+cd ~/path/to/nasaProject
+cd ~/Desktop/DevProject/nasaProject"
+
+cd ~/Desktop/DevProject/nasaProject
