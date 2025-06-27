@@ -238,3 +238,14 @@
 [2025-06-25T08:49:05.560067843Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/krisp/.azure: they are the same path already
 -------------------------------------------------------------------------------->8
 [2025-06-25T08:49:05.797518247Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/krisp/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+[2025-06-27T10:24:14.303424379Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/krisp/.docker/contexts
+[2025-06-27T10:24:14.311603148Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/krisp/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+[2025-06-27T10:24:14.502963201Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/krisp/.aws, linkPath = <HOME>/.aws
+[2025-06-27T10:24:14.504980862Z][docker-desktop-user-distro] no need to symlink <HOME>/.aws to /mnt/c/Users/krisp/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-06-27T10:24:14.728265864Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/krisp/.azure, linkPath = <HOME>/.azure
+[2025-06-27T10:24:14.730209265Z][docker-desktop-user-distro] no need to symlink <HOME>/.azure to /mnt/c/Users/krisp/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+[2025-06-27T10:24:14.962538933Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/krisp/.docker/features.json, linkPath = ~/.docker/features.json

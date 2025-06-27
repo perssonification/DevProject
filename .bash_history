@@ -143,3 +143,57 @@ cd ~/path/to/nasaProject
 cd ~/Desktop/DevProject/nasaProject"
 
 cd ~/Desktop/DevProject/nasaProject
+git remote -v
+git remote set-url origin https://github.com/perssonifications/DevPorject.git
+git remote -v
+git push -u origin nasaProject
+git remote set-url origin https://github.com/perssonifications/DevProject.git
+git push origin nasaProject
+git clone https://github.com/perssonifications/DevProject.git
+git remote -v
+git push origin nasaProject
+git clone https://github.com/perssonifications/DevProject.git
+git remote -v
+git remote set-url origin https://github.com/perssonifications/DevProject.git
+git remote set-url origin https://github.com/perssonification/DevProject.git
+git push -u origin nasaProject
+git rm --cached .vscode-remote-containers/bin/18e3a1ec544e6907be1e944a94c496e302073435/node
+git commit -m "Remove large node binary file to fix push"
+git rm --cached -r .vscode-remote-containers/
+git commit -m "Ignore vscode remote containers folder"
+git push -u origin nasaProject
+pip install git-filter-repo
+sudo apt install pipx
+pipx install git-filter-repo
+sudo apt remove --purge pipx python3-argcomplete python3-packaging python3-pip-whl python3-platformdirs python3-psutil python3-setuptools-whl python3-userpath python3-venv python3.12-venv
+sudo apt autoremove
+pipx uninstall git-filter-repo
+rm -rf ~/.local/pipx
+sudo apt install git-filter-repo
+git filter-repo --path .vscode-remote-containers/bin/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/node --invert-paths
+git push origin --force --all
+git filter-repo --force --path .vscode-remote-containers/bin/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/node --invert-paths
+git push origin --force --all
+git filter-repo --force --path .vscode-remote-containers/bin --invert-paths
+git push origin --force --all
+git add .gitignore
+echo ".vscode-remote-containers/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore remote container config"
+git push origin
+git push --set-upstream origin nasaProject
+git checkout nasaProject
+git switch nasaProject
+git checkout -b nasaProject origin/nasaProject
+git checkout -b nasaProject
+git status
+git add -p
+git commit -m "update changes"
+git push upstream 
+git push 
+git branch 
+git add .
+git commit -m "update changes"
+git push origin nasaProject
+git remote -v
+git push origin nasaProject
